@@ -1,7 +1,8 @@
 Current Gregorian Year: 2017
 Year we should be in: 12017
 
-List of years past in thei Human Era(HE) format
+List of years past in their Human Era(HE) format:
+
 10000BC	0HE
 9999BC	1HE
 9998BC	2HE
