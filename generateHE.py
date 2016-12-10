@@ -8,7 +8,7 @@ firstYear = 0
 f = open('HE.txt','w')
 f.write('Current Gregorian Year: '+str(currentYear)+'\n')
 f.write('Year we should be in: '+ str(yearWeShouldBeIn)+'\n')
-f.write('\nList of years past in thei Human Era(HE) format\n')
+f.write('\nList of years past in their Human Era(HE) format:\n\n')
 
 ##BC to HE
 for BC in reversed(range(0,firstYearDiff+1)):
